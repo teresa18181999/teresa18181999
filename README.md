@@ -1,16 +1,17 @@
-## Hi there 👋
+# Teresa | Desarrolladora de Software
 
-<!--
-**teresa18181999/teresa18181999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora de Aplicaciones Multiplataforma (DAM) especializada en desarrollo frontend, backend, arquitectura cliente-servidor y persistencia en bases de datos relacionales.
 
-Here are some ideas to get you started:
+### Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes:** Java, TypeScript, JavaScript, SQL, HTML5, CSS3, Python
+- **Bases de Datos:** MySQL, MariaDB
+- **Herramientas y Entornos:** Docker, Docker Compose, Git, GitHub, VS Code, XAMPP, VirtualBox, Figma
+- **Arquitectura y Enfoque:** Jakarta EE, Patrón MVC, REST APIs, Clean Code, Usabilidad y Diseño UI/UX
+
+### Proyectos
+
+- **TravelUp** - Plataforma web de gestión y planificación de viajes. Desarrollada con arquitectura MVC en Jakarta EE y base de datos MySQL, orquestada mediante contenedores con Docker Compose.
+- **My-Virtual-Close** - Aplicación de gestión y catalogación de armario digital para planificación de conjuntos y de inventario (prendas). También funciona como red social. (TypeScript).
+
+
